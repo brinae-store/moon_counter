@@ -11,8 +11,8 @@
 static const char *TAG = "openweather";
 static weather_data_t g_weather = {0};
 
-#define URL_DAILY "https://api.openweathermap.org/data/3.0/onecall?lat=41.88&lon=-87.63&units=imperial&exclude=hourly,minutely&APPID=a937fd4fd5d0d701861163607edda571"
-#define URL_CURRENT "https://api.openweathermap.org/data/3.0/onecall?lat=41.88&lon=-87.63&units=imperial&exclude=hourly,minutely&APPID=a937fd4fd5d0d701861163607edda571"
+#define URL_DAILY "https://api.openweathermap.org/data/3.0/onecall?lat=41.88&lon=-87.63&units=imperial&exclude=hourly,minutely&APPID={{APIKEY}}"
+#define URL_CURRENT "https://api.openweathermap.org/data/3.0/onecall?lat=41.88&lon=-87.63&units=imperial&exclude=hourly,minutely&{{APIKEY}}"
 
 
 
