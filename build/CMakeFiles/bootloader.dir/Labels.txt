@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/baing/iCloudDrive/3D Stuff/For Erin/moon/Dev/moon_display/tests/build/CMakeFiles/bootloader
+C:/Users/baing/iCloudDrive/3D Stuff/For Erin/moon/Dev/moon_display/tests/build/CMakeFiles/bootloader.rule
+C:/Users/baing/iCloudDrive/3D Stuff/For Erin/moon/Dev/moon_display/tests/build/CMakeFiles/bootloader-complete.rule
+C:/Users/baing/iCloudDrive/3D Stuff/For Erin/moon/Dev/moon_display/tests/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/baing/iCloudDrive/3D Stuff/For Erin/moon/Dev/moon_display/tests/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/baing/iCloudDrive/3D Stuff/For Erin/moon/Dev/moon_display/tests/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/baing/iCloudDrive/3D Stuff/For Erin/moon/Dev/moon_display/tests/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/baing/iCloudDrive/3D Stuff/For Erin/moon/Dev/moon_display/tests/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/baing/iCloudDrive/3D Stuff/For Erin/moon/Dev/moon_display/tests/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/baing/iCloudDrive/3D Stuff/For Erin/moon/Dev/moon_display/tests/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

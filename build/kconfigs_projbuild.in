@@ -1,0 +1,6 @@
+source "C:/Users/baing/esp/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/baing/esp/esp-idf/components/esp_app_format/Kconfig.projbuild"
+source "C:/Users/baing/esp/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "C:/Users/baing/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/baing/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+source "C:/Users/baing/iCloudDrive/3D Stuff/For Erin/moon/Dev/moon_display/tests/components/st7789/Kconfig.projbuild"
