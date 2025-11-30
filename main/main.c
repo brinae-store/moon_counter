@@ -232,7 +232,7 @@ void app_main(void) {
     };
     ESP_ERROR_CHECK(esp_vfs_spiffs_register(&conf));
 
-    wifi_manager_connect("EE_and_BB", "meowmeow2022");
+    wifi_manager_connect("{{SSID}}", "{{WIFI-PASSWORD}}");
 	// ✅ Network is now up — now sync time (needed for HTTPS)
 	ESP_LOGI(TAG, "⏳ Syncing time...");
 	esp_sntp_setoperatingmode(SNTP_OPMODE_POLL);
